@@ -11,7 +11,7 @@ The dataset used in this project is from Kaggle . It contains Dataset Name [e.g.
 * *Description:*
  This dataset is designed for the classification of hypothyroidism, a condition caused by an underactive thyroid gland. It contains a collection of patient data, including demographic information and the results of various thyroid function tests. The primary goal is to predict whether a patient has hypothyroidism based on these features. This dataset can be used to develop and evaluate machine learning models for early and accurate diagnosis of hypothyroidism, potentially improving patient outcomes.
 
-*Features:*
+**Features:*
 The dataset includes the following features:
 Age:
 Numerical value representing the patient's age in years.
