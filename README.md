@@ -42,4 +42,12 @@ Hypothyroid [Binary Class]:
 Binary categorical variable indicating the presence or absence of hypothyroidism (e.g., True/False, 1/0, Positive/Negative).
 This is the variable that the machine learning models will aim to predict.
 
+## Model
+
+The model implemented in this project is a [Logistic Regression, Support Vector Machine,Random Forest].
+
+* *Algorithm:* [Logistic Regression, Support Vector Machine,Random Forest]
+* *Performance Metrics:* [accuracy, precision, recall, F1-score]
+
+
 
