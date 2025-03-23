@@ -49,5 +49,13 @@ The model implemented in this project is a [Logistic Regression, Support Vector 
 * *Algorithm:* [Logistic Regression, Support Vector Machine,Random Forest]
 * *Performance Metrics:* [accuracy, precision, recall, F1-score]
 
+## Dependencies
+
+* Python 
+* pandas
+* scikit-learn
+* numpy
+* matplotlib (for visualization)
+* seaborn (for visualization)
 
 
